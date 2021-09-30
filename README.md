@@ -1,5 +1,5 @@
 # sapient-product-catalogue-search
-Coding challenge to create a product catalogue search application
+Publicis Sapient Coding challenge to create a product catalogue search application
 
 ER-diagram:
 
